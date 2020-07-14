@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danefishhh.github.io</id>
     <title>Wada</title>
-    <updated>2020-07-14T07:12:53.958Z</updated>
+    <updated>2020-07-14T07:50:54.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danefishhh.github.io"/>
     <link rel="self" href="https://danefishhh.github.io/atom.xml"/>
-    <subtitle>一明一灭一尺间， 寂寞何以堪</subtitle>
+    <subtitle>欢迎来 Wada 的博客</subtitle>
     <logo>https://danefishhh.github.io/images/avatar.png</logo>
     <icon>https://danefishhh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wada</rights>
