@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danefishhh.github.io</id>
     <title>Wada</title>
-    <updated>2020-09-20T08:28:30.050Z</updated>
+    <updated>2020-09-20T08:31:53.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danefishhh.github.io"/>
     <link rel="self" href="https://danefishhh.github.io/atom.xml"/>
@@ -11,16 +11,28 @@
     <icon>https://danefishhh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wada</rights>
     <entry>
+        <title type="html"><![CDATA[记《春琴抄》]]></title>
+        <id>https://danefishhh.github.io/post/记《春琴抄》/</id>
+        <link href="https://danefishhh.github.io/post/记《春琴抄》/">
+        </link>
+        <updated>2020-08-30T15:11:52.000Z</updated>
+        <content type="html"><![CDATA[<p>想要有感而发的时候却总是失语，像是呼吸阻塞，皱起眉头，转为想把这份心情分享给别人，可也仅限于“我看了，潸然泪下”。</p>
+<p>自左助刺瞎双眼后，整本书进入高潮，我意识到叙事的意义，但也无暇顾及。</p>
+<p>​眼前的文字变得飞快，我自身与文字处于两个不同的境地，而文字通过每时每刻都想要快关闭的通道 传达给我，助我构建脑中的颇具主观色彩的画面，就是这样一种体验。被特有的唯美与悲戚氛围包裹着，心情悬在半空，终于在某一文字前化作眼窝打转的泪。</p>
+<p>“师父，我已经变成瞎眼了，从今以后一辈子都看不见您的脸了。”</p>
+<p>​“你说的是真的吗？”</p>
+<p>​佐助没有比那几分钟更快乐过，相信春琴也是。两人心意交融，后相拥而泣。</p>
+<p>​所有的叙事，背景，给予这一结局极为丰富的合理性。恰恰因为春琴极致的貌美，而又有着极致的缺陷。</p>
+<p>跨越主从，师徒，恋人，不是正派的爱情，仅仅是美好的人性。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《再见》]]></title>
         <id>https://danefishhh.github.io/post/《再见》/</id>
         <link href="https://danefishhh.github.io/post/《再见》/">
         </link>
-        <updated>2020-08-30T15:11:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>挖坑 机会合适的话也许之后会改改，表达应该达到一定程度的清楚</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>挖坑 机会合适的话也许之后会改改，表达应该达到一定程度的清楚</p>
-<!-- more -->
-<p>因为是冬天，路灯闪着光，晴朗的天空点点星光映衬着，无不令人生出美好平静的感情。</p>
+        <updated>2019-11-30T15:11:52.000Z</updated>
+        <content type="html"><![CDATA[<p>因为是冬天，路灯闪着光，晴朗的天空点点星光映衬着，无不令人生出美好平静的感情。</p>
 <p>手插在大衣兜里，看着脚下的影子，头发不时被风吹起，一步步向校门口走。</p>
 <p>五点四十，现在做什么好呢。</p>
 <p>“嗨。”</p>
@@ -59,22 +71,7 @@
 <p>“再见。”</p>
 <p>呼。</p>
 <p>六点十五，天空一片漆黑，点点星光闪烁。我像是得到了巨大的满足，却又无比疲惫。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记《春琴抄》]]></title>
-        <id>https://danefishhh.github.io/post/记《春琴抄》/</id>
-        <link href="https://danefishhh.github.io/post/记《春琴抄》/">
-        </link>
-        <updated>2020-08-30T15:11:52.000Z</updated>
-        <content type="html"><![CDATA[<p>想要有感而发的时候却总是失语，像是呼吸阻塞，皱起眉头，转为想把这份心情分享给别人，可也仅限于“我看了，潸然泪下”。</p>
-<p>自左助刺瞎双眼后，整本书进入高潮，我意识到叙事的意义，但也无暇顾及。</p>
-<p>​眼前的文字变得飞快，我自身与文字处于两个不同的境地，而文字通过每时每刻都想要快关闭的通道 传达给我，助我构建脑中的颇具主观色彩的画面，就是这样一种体验。被特有的唯美与悲戚氛围包裹着，心情悬在半空，终于在某一文字前化作眼窝打转的泪。</p>
-<p>“师父，我已经变成瞎眼了，从今以后一辈子都看不见您的脸了。”</p>
-<p>​“你说的是真的吗？”</p>
-<p>​佐助没有比那几分钟更快乐过，相信春琴也是。两人心意交融，后相拥而泣。</p>
-<p>​所有的叙事，背景，给予这一结局极为丰富的合理性。恰恰因为春琴极致的貌美，而又有着极致的缺陷。</p>
-<p>跨越主从，师徒，恋人，不是正派的爱情，仅仅是美好的人性。</p>
+<p>（挖坑  机会合适也许会再改改，表达应该达到一定程度的清晰，有些过于个人化了）</p>
 ]]></content>
     </entry>
     <entry>
